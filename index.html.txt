@@ -1,1 +1,2 @@
 test brancindeki ilk commit
+ikinci commit
