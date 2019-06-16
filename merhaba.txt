@@ -1,6 +1,0 @@
-Merhaba dünya
-<<<<<<< Updated upstream
-jdsk
-=======
-gdfsdhgfhdshsddh
->>>>>>> Stashed changes
